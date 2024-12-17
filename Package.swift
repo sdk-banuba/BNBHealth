@@ -42,7 +42,7 @@ let package = Package(
         .binaryTarget(
             name: "BNBHealth",
             url: "https://d2cm7wtcqqw29.cloudfront.net/1.16.3/BNBHealth.zip",
-            checksum: "81510bcf608aec2e53fbe9ac1eb0878f8aadedea4b37a96c532c775009ee96ef"
+            checksum: "d68d676dffdd80d89eca3b0c9ed4bee00c57a17080d450ba8c94c26642df17d3"
         ),
         .target(
             name: "BNBHealth_BNBSdkCore",
